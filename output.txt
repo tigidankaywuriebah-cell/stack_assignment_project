@@ -1,0 +1,13 @@
+13
+-----
+16
+-----
+-10
+-----
+12
+-----
+5.5
+-----
+ERROR (line 11): Division by zero
+-----
+ERROR (line 13): Unmatched opening parenthesis

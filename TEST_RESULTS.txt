@@ -1,0 +1,4 @@
+Test execution: python -m unittest -v
+Six unittest test methods passed (OK).
+Covered: stack push/pop/peek/empty, sample calculations, precedence, unary operators, decimals, malformed input, division by zero, separator preservation.
+Note: the assignment example image on page 2 appears to show 17 for the second expression; standard arithmetic gives 16 for ((8 / 4) + 7 * 2).
